@@ -1,0 +1,52 @@
+@import url(../../../node_modules/bootstrap/dist/css/bootstrap.min.css);
+
+.bg-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: #aff0ce; */
+    padding: 80px;
+}
+.login-container{
+    /* border: 1px solid black; */
+    padding: 20px;
+    text-align: center;
+    box-shadow: 2px 8px 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    
+}
+.container{
+    margin-right: 120px;
+}
+
+.container-1{
+    margin-top: 10px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.create-new{
+    text-align: center;
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.checkbox-text{
+    display: flex;
+}
+
+.forgot-button{
+    background-color: transparent;
+    border: none;
+}
